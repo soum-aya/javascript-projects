@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.background{
+	font-size: 20px;
+	background-color: black;
+	border-radius: 10px;
+}
+.title{
+	color: white;
+}
+.color{
+	color: blue;
+}
